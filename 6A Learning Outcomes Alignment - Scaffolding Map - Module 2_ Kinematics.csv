@@ -1,0 +1,14 @@
+Kinematics,,,,,,,,,,,,,,,Jackson's Connections,Amy's Connections
+Module-level Learning Outcomes,Label,Student Content Interaction,,,,,,,,,Assessment,,,,,
+,,Lecture,Demo,Example,Videos,TPS,PhET,Reading,Lab,Discuss,HW,Quiz,Midterm I,Lab,,
+Calculate the change in a quantity using the final value minus the initial value.,A,x,,x,,,,,x,x,,x,,x,,"2B, 2C, 2E, 2G, 2I, 2J, 2K, 3F, 4F, 5B, 5C, 5E, 6B, 6C, 6D, 6E, 6F, 6G, 7D, 7E, 8A, 8B, 8C, 8D, 8I, 10E"
+Distinguish between an object's position and displacement. ,B,x,,,,x,,x,x,,x,x,,x,,"2A, 2C, 2D, 2G, 2I, 2J, 2K, 4F, 5B, 5C, 5E, 6B, 6C, 6D, 6E, 6F, 6G, 6H, 8A, 8L"
+Relate an object's average velocity to its displacement and the associated time interval.,C,x,,x,,,,x,x,,x,x,,x,,"2A, 2B, 2D, 2G, 2I, 2J, 2K, 3F, 4A, 4E, 4F, 4G, 4I, 7A, 7E, 8B, 8E, 8I, 10D, 10E"
+Recognize the instantaneous velocity as the derivative of the position with respect to time.,D,x,,,x,x,,x,x,,x,,,x,,"2C, 2G, 2I, 3F, 5A, 6E, 6F, 6G, 6H, 6I, 7D, 8E, 8I, 10D"
+Relate an object's average acceleration to its change in velocity and the associated time interval.,E,x,,,,,,x,x,,x,x,,x,,"2C, 2F, 2G, 2H, 2J, 2K, 3F, 3G, 4C, 4D, 4E, 8C, 8D, 8F, 8I, 8J"
+Recognize the instantaneous acceleration as the derivative of the velocity with respect to time.,F,x,,,,,,x,x,,x,,,x,,"2C, 2E, 2G, 2H, 2J, 2K, 3F, 3G, 4C, 4D, 4E, 8C, 8D, 8F, 8I, 8J"
+"Relate position versus time, velocity versus time, and acceleration versus time graphs to one another.",G,x,,,x,x,,x,,x,,x,,,,"2A, 2B, 2C, 2D, 2E, 2F,  3F, 4F, 5C, 6I, 7D, 8B, 8C, 8D"
+Identify known and unknown quantities in kinematic problems.,H,x,,x,,,,,,x,,x,,,,"2A, 2B, 2C, 2D, 2D, 3F, 4E, 5A, 5B, 6E, 6F, 6G, 6H, 8G, 8H"
+Solve one (or more) of the kinematic equations for an unknown quantity for motion involving constant velocity.,I,x,,x,x,,,x,,x,x,x,,,,"2A, 2B, 2C, 2D, 2E, 2F, 2G, 2H, 3B, 4B, 4C, 4D, 4E, 6E, 6F, 6I, 7A, 8A, 8B, 8D, 8H, 9H"
+Solve one (or more) of the kinematic equations for an unknown quantity for motion involving constant acceleration.,J,x,,x,x,x,,x,,x,x,x,,,,"2A, 2B, 2C, 2D, 2E, 2F, 2G, 2H, 2I, 3B, 3F, 3G, 4D, 4E, 5A, 5B, 5C, 5E, 6G, 6H, 8A, 8B, 8C, 8D, 8F, 8G, 8H, 8I, 8J, 9A, 9H"
+Reduce a two-dimensional problem into two coupled one-dimensional problems by resolving the components of velocity and acceleration into components along two perpendicular axes.,K,x,x,x,x,,x,x,,x,x,,x,,,"2A, 2B, 2C, 2D, 2E, 2F, 2G, 2H, 2I, 2J, 3B, 3F, 3G, 4C, 4D, 4E, 5A, 5B, 5C, 5E, 6C, 6G, 6H, 8A, 8B, 8C, 8D, 8F, 8G, 8H, 8I, 8J, 8K, 9A, 9H"

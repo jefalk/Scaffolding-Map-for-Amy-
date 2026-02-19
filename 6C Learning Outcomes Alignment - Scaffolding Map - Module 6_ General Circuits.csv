@@ -1,0 +1,15 @@
+Circuits,,,,,,,,,,,,,,,6C Connections
+Module-level Learning Objectives,Label,Student Content Interaction,,,,,,,,,Assessment,,,,
+,,Example,Demo,Slides,Videos,TPS,PhET,Reading,Lab,Discuss,HW,Quiz,Midterm II,Lab,
+"Identify and represent circuit elements of batteries, wires, resistors, bulbs, junctions, capacitors and switches (open and closed) within circuit diagrams.",A,,,x,,,x,x,x,x,x,,X,x,"6B, 6C, 6D, 6G, 6H, 6J, 6K, 6L, 7D, 7E, 7F, 6G, 7H, 10D"
+Relate the sign of the potential difference across a battery to the direction of the current within the circuit.,B,,,x,,x,,,,x,x,,X,,"6A, 6C, 6D, 6G, 6H, 6I, 6J, 6K, 6L, 7A, 7B, 7D, 7E, 7F, 7G, 7H, 10A "
+Utilize Kirchoff's loop law around a circuit loop to determine potential differences across circuit elements.,C,x,,x,x,x,,x,,,x,x,X,,"6A, 6B, 6D, 6E, 6F, 6G, 6H, 6I, 6J, 6K, 6L, 7A, 7B, 7C, 7D, 7E, 7F, 7G, 7H, 10D, 10G"
+Recognize resistors within a circuit as connected in either in parallel or in series.,D,,,x,,x,x,,x,x,x,,x,,"6A, 6B, 6C, 6E, 6F, 6G, 6H, 6I, 6J, 6K, 6L, 7B, 7C, 7D, 7E, 7F, 7G"
+Calculate total resistance of multiple resistors in series.,E,x,,,,x,x,,x,,x,x,X,x,"6C, 6D, 6F, 6G, 6H, 6I, 6J, 6K, 6L, 7A, 7B, 7C, 7D, 7E, 7F, 7G, 7H"
+Calculate total resistance of multiple resistors in parallel.,F,x,,,,x,x,,x,,x,x,X,x,"6C, 6D, 6E, 6G, 6H, 6I, 6J, 6K, 6L, 7A, 7B, 7C, 7D, 7E, 7F, 7G, 7H"
+Determine a circuit's total resistance through the combination of resistors in parallel and series.,G,x,,x,x,,x,,x,x,x,x,X,x,"6A, 6B, 6C, 6D, 6E, 6F, 6H, 6I, 6J, 6K, 6L, , 7A, 7B, 7C, 7D, 7E, 7F, 7G, 7H"
+Utilize relationship of voltage difference across and current through resistors in parallel to determine current and voltage of elements in circuit.,H,x,,x,x,x,x,x,,x,x,,x,,"6A, 6B, 6C, 6D, 6E, 6F, 6G, 6I, 6J, 6K, 6L, 7A, 7B, 7C, 7D, 7E, 7F, 7G, 7H, 10C, 10D, 10G"
+Utilize relationship of voltage difference across and current through resistors in series to determine current and voltage of elements in circuit.,I,x,,x,x,x,x,x,,x,x,,x,,"6A, 6B, 6C, 6D, 6E, 6F, 6G, 6H, 6J, 6K, 6L, 7A, 7B, 7C, 7D, 7E, 7F, 7G, 7H, 10C, 10D, 10G"
+Calculate the power dissipated by circuit elements.,J,,,x,,,x,x,,,x,x,X,,"6A, 6B, 6C, 6D, 6E, 6F, 6G, 6H, 6I, 7D, 7E, 7F, 7G"
+Identify correct location and connection of voltmeter to measure voltage difference across circuit element.,K,x,,,,x,x,x,x,x,,x,,x,"6A, 6B, 6C, 6D, 6E, 6F, 6G, 6H, 6I, 7A, 7B, 7C"
+Identify correct location and connection of ammeter to measure current through circuit element.,L,x,,x,,x,x,x,x,x,,x,,x,"6A, 6B, 6C, 6D, 6E, 6F, 6G, 6H, 6I, 7A, 7B, 7C"

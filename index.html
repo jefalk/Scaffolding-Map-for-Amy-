@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>PHYS LO Maps — 6A / 6C</title>
+  <style>
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; }
+    .bar { position: fixed; top: 0; left: 0; right: 0; z-index: 9999;
+            background: rgba(255,255,255,0.92); backdrop-filter: blur(6px);
+            border-bottom: 1px solid #ddd; padding: 10px 12px; display:flex; gap:10px; align-items:center; }
+    .bar select { padding: 8px 10px; border-radius: 10px; border: 1px solid #bbb; }
+    .bar .hint { color:#444; font-size: 14px; }
+    iframe { position: fixed; top: 54px; left: 0; width: 100%; height: calc(100vh - 54px); border: 0; }
+  </style>
+</head>
+<body>
+  <div class="bar">
+    <label for="courseSelect" style="font-weight:650;">Course:</label>
+    <select id="courseSelect">
+      <option value="map_6A.html">PHYS 6A — Mechanics</option>
+      <option value="map_6C.html">PHYS 6C — E&M</option>
+      <option value="map_6AC.html">PHYS 6A + 6C — Combined Connections</option>
+    </select>
+    <span class="hint">Switch courses here (each map keeps all original functionality).</span>
+  </div>
+
+  <iframe id="mapFrame" src="map_6A.html" title="Learning Map"></iframe>
+
+  <script>
+    const select = document.getElementById('courseSelect');
+    const frame = document.getElementById('mapFrame');
+    const key = 'LO_SELECTED_COURSE_FILE';
+    const saved = localStorage.getItem(key);
+    if (saved) { select.value = saved; frame.src = saved; }
+    select.addEventListener('change', () => {
+      localStorage.setItem(key, select.value);
+      frame.src = select.value;
+    });
+  </script>
+</body>
+</html>

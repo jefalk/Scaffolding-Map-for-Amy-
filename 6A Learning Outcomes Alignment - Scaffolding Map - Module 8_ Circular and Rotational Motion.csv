@@ -1,0 +1,18 @@
+Circular and Rotational Motion,,,,,,,,,,,,,,Jackson's Connections,Amy's Connections
+Module-level Learning Objectives,Label,Student Content Interaction,,,,,,,,Assessment,,,,,
+,,Lecture,Demo,Slides,Videos,TPS,Reading,Lab,Discuss,HW,Quiz,Final,Lab,,
+Use radians as the unit of angle in circular motion problem solving.,A,x,,x,,,x,,,x,,,,,"8B, 8C, 8E, 8G, 8H"
+Relate the angular velocity to the change in angular position over the change in time.,B,x,,x,,,,x,x,x,x,,x,,"8A, 8C, 8D, 8E, 8G, 8H, 8I, 8J, 8N, 10A, 10B, 10C"
+Relate the angular acceleration to the change in angular velocity over change in time.,C,x,,x,,,,,,x,,,,,"8A, 8B, 8D, 8E, 8F, 8G, 8H, 8I, 9A, 9D, 9G"
+Distinguish uniform from nonuniform circular motion.,D,x,,,,x,x,,,x,x,,,,"8B, 8C, 8E, 8F, 8G, 8H, 9A, 9G, 9H"
+"For an object in uniform circular motion, relate its tangential speed and radius to its angular speed and its period of revolution. ",E,,,x,,,x,x,,x,,,x,,"8A, 8B, 8G, 8H, 8J, 8N, 10E"
+"For nonuniform circular motion, relate an object's tangential acceleration to its angular acceleration.",F,x,,x,,,x,x,,x,,,,,"8C, 8D, 8G, 8H, 8I, 9G, 9H"
+Construct the equations of rotational kinematics in exact analogy to the equations of one-dimensional accelerated motion.,G,x,,x,,,,,,x,,,,,"8A, 8B, 8C, 8D, 8E, 8F, 8H"
+Use the rotational kinematic equations to solve for an unknown quantity.,H,x,,,x,,,,x,x,x,,,,"8A, 8B, 8C, 8D, 8E, 8F, 8G"
+Recognize that a change in the direction of a velocity vector is associated with acceleration.,I,x,,x,,x,,,x,,,x,,,"8E, 8F, 8J"
+Solve for the centripetal acceleration of an object moving in a circular path with known radius and speed.,J,x,,,,,,,x,,x,,,,"8B, 8E, 8I, 8K"
+Identify radial forces acting on an object in circular motion as the centripetal force.,K,,x,,,x,x,,x,,,x,,,8J
+"Calculate the center of mass of a collection of individual, point-like objects where each object may have a different mass and position.   ",L,,x,,,,,,x,,x,,,,8M
+Calculate the moment of inertia of multiple point sources oriented around an axis.,M,x,x,,x,,x,,,x,,x,,,"8L, 8N, 8O, 9A, 9G, 10C, 10D, 10E"
+Relate rotational kinetic energy to the object’s moment of inertia and its angular speed.,N,,,x,,,x,x,x,,x,,x,,"8B, 8E, 8M, 8O"
+"With access to a reference, calculate the moment of inertia of a simple geometric object from its mass and dimensions.",O,x,,x,,,x,x,x,,x,,x,,"8M, 8O, 9A, 9G, 10C, 10D, 10E"

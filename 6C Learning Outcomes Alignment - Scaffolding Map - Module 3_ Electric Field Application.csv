@@ -1,0 +1,12 @@
+Electric Field Application,,,,,,,,,,,,,,,6C Connections
+Module-level Learning Objectives,Label,Student Content Interaction,,,,,,,,,Assessment,,,,
+,,Example,Demo,Slides,Videos,TPS,PhET,Reading,Lab,Discuss,HW,Quiz,Midterm,Lab,
+Recognize two opposite charges separated by a distance as a dipole.,A,,,x,,x,,x,,,x,,,,"3B, 3C, 3D, 3G, 3H, 4A, 4B, 4G, 4I, 4K, 9F, 9G, 10A, 10B"
+Calculate the magnitude and direction of the dipole electric field on any point of the plane which bisects the charges.,B,x,,,x,,,x,,x,,x,,,"3A, 3G, 4A, 4B, 4G, 4I, 4K, 9F, 9G, 10A, 10B"
+Calculate the magnitude and direction of the dipole electric field on any point along the parallel axis of charges.,C,x,,,x,,,x,,x,x,,,,"3A, 3G, 4A, 4B, 4G, 4I, 4K, 9F, 9G, 10A, 10B"
+Calculate the magnitude and direction of an idealized parallel plate capacitor's electric field.,D,x,,x,x,x,x,x,x,,x,x,,x,"3C, 3E, 3F, 3G, 3H, 3I, 4A, 4B, 4C, 4D, 4F, 4H, 4I, 5A, 5B, 5C, 5D, 6A, 7A, 7B, 7C, 7D, 7E, 7F, 7G, 7H "
+"Use the definition E = F/q to find the strength and direction of electric fields from given forces and, conversely, forces from the strength and direction of electric fields. ",E,,x,,x,,x,,,,x,,x,,"3D, 3F, 3G, 3H, 4E, 4F, 4H, 9A"
+Calculate the force and acceleration experienced by a charge in the presence of an electric field.,F,x,,x,,,,x,,x,x,x,,,"3D, 3E, 3H, 5H, 9A, 9F, 10B"
+Calculate the torque experienced by a dipole in the presence of an electric field.,G,x,,x,,x,,x,,,x,,x,,"3A, 3B, 3C, 3D, 3E, 8F, 9F"
+"Understand that an electric field is produced by a single charge, while a force is only produced through the interaction of two charges.",H,x,,x,x,x,,,,,,x,,,"3H, 3D, 3E, 3F, 4A, 4B, 4C, 4D, 4E, 7H, 8D, 8E, 9A, 9B, 9D, 9E"
+Relate the electric flux to the electric field through an area.,I,x,,x,,x,,x,,,x,x,,,"3D, 10B, 10C, 10D, 10E, 10F, 10G "

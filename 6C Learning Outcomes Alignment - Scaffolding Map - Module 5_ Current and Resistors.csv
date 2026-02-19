@@ -1,0 +1,15 @@
+Current and Resistors,,,,,,,,,,,,,,,6C Connections
+Module-level Learning Outcomes,Label,Student Content Interaction,,,,,,,,,Assessment,,,,
+,,Lecture,Demo,Example,Videos,TPS,PhET,Reading,Lab,Discuss,HW,Quiz,Midterm II,Lab,
+Relate the capacitance to charge separation and voltage difference.,A,x,,x,,x,x,,,x,x,,x,x,"5B, 5C, 5D, 6A, 6B, 7A, 7B, 7C, 7D, 7E, 7F, 7G, 7H"
+Calculate the capacitance of a parallel-plate capacitor from the plate area and plate separation.,B,x,,x,,x,x,x,x,x,x,x,X,,"5A, 5C, 5D, 6A, 6B, 7A, 7B, 7C, 7D, 7E, 7F, 7G, 7H"
+Determine the potential energy stored in a capacitor.,C,x,,,,,x,x,,x,x,,x,,"5A, 5B, 5D"
+Recognize batteries as idealized capacitors which can provide potential differences in circuits.,D,,,,,,x,x,,x,x,,,,"5A, 5B, 5C, 6A, 6B, 7A, 7B, 7C, 7D, 7E, 7F, 7G"
+Utilize the definition of current to determine charge flow in time.,E,x,,x,,x,x,,x,,x,x,,x,"5F, 5G, 5H, 5J, 5K, 5L, 6A, 6B, 6C, 6H, 6I, 6K, 6L, 7C, 7D, 7E, 7F, 7G, 7H, 8D, 8E, 8F, 8G, 8H, 8I, 9D, 9E, 10B, 10D, 10F, 10G"
+"Interpret wires as perfect conductors, with free charge motion.",F,x,,,,,x,x,x,x,x,,X,x,"5E, 5I, 5L, 6A, 6B, 6C, 6H, 6I, 6K, 6L, 7C, 7D, 7E, 7F, 7G, 7H, 8D, 8E, 8F, 8G, 8H, 8I, 9D, 9E, 10B, 10D, 10F, 10G"
+Utilize the conservation of charge to determine current value and direction at wire junctions.,G,x,,x,,x,,,,x,,x,X,,"5E, 5H, 5J, 5K, 6B, 6C, 6D, 6H, 6I, 6J, 6K, 6L, 7D, 7E, 7F, 7G, 7H, 8D, 8E, 8F, 8G, 8H, 8I, 9D, 9E, 10D, 10F, 10G"
+Represent the direction of current I within a circuit with the motion of positive charges moving from high potential to low potential.,H,,,x,x,x,x,x,,,x,,,,"5E, 5F, 5H, 5J, 5K, 5L, 6B, 6C, 6D, 6H, 6I, 6J, 6K, 6L, 7D, 7E, 7F, 7G, 7H, 8D, 8E, 8F, 8G, 8H, 8I, 9D, 9E, 10D, 10F, 10G"
+"Calculate a material's resistance from the resistivity, length, and cross-sectional area. ",I,,,x,,x,x,,,,x,x,X,,"5F, 5J, 5K, 5L, 6A, 6D, 6E, 6F, 6H, 6I, 6K, 6J, 7D, 7E, 7F, 7G, 7H, 10F, 10G"
+Relate the resistance of a resistor to its current and voltage with Ohm's Law.,J,x,,x,,,x,x,x,x,x,x,X,x,"5E, 5G, 5H, 5K, 5L, 6B, 6C, 6D, 6E, 6F, 6G, 6H, 6I, 6J, 6K, 6L, 7C, 7D, 7E, 7F, 7G, 7H, 10G"
+Determine the magnitude of potential drop or gain across a resistor through Ohm's Law and the current I direction of flow.,K,x,,x,x,,x,,x,x,x,,x,x,"5E, 5G, 5H, 5I, 5J, 5L, 6B, 6C, 6D, 6E, 6F, 6G, 6H, 6I, 6J, 6K, 6L, 7C, 7D, 7E, 7F, 7G, 7H, 10G"
+Calculate the rate of energy dissipation across a circuit element such as a light bulb or resistor from its current and/or potential difference.,L,x,,,,x,,,x,,x,x,X,x,"5E, 5F, 5H, 5I, 5J, 5K, 6A, 6B, 6C, 6D, 6E, 6F, 6G, 6H, 6I, 6J, 6E, 6F, 6G "
